@@ -44,34 +44,22 @@ Thank you for your interest in contributing to Lean Storytelling!
 ### Hierarchy of Files and Folders
 
 ```
-/book
-  /chapters
-    01-lean-storytelling.md
-    02-build-your-story.md
-    03-extend-your-story.md
-    04-deliver-your-story.md
-    05-go-beyond-your-story.md
-  /images
-  outline.md
-  README.md
-  CONTRIBUTING.md
-  LICENSE
+/src
+  SUMMARY.md
+/docs
+README.md
+CONTRIBUTING.md
+book.toml
 ```
 
 ### Explanation of Files and Folders
 
-1. **/book**: The root directory for the Lean Storytelling book.
-2. **/book/chapters**: Contains the individual chapters of the book.
-   - `01-lean-storytelling.md`: Introduction to Lean Storytelling.
-   - `02-build-your-story.md`: Guide to building your story.
-   - `03-extend-your-story.md`: Techniques to extend your story.
-   - `04-deliver-your-story.md`: Methods to deliver your story.
-   - `05-go-beyond-your-story.md`: Advanced techniques and extensions.
-3. **/book/images**: Contains separate `images` , to be referenced in Markdown files using relative paths.
-4. **outline.md**: Provides a structured overview of the book.
-5. **README.md**: Overview of the Lean Storytelling book.
+1. **/src**: The root directory for the Lean Storytelling book in md files and folders.
+2. **SUMMARY**.md: Main file for mdbook.
+3. **/docs**: Static site for the book, built with mdbook.
+4. **README.md**: Overview of the Lean Storytelling book.
 5. **CONTRIBUTING.md**: This file outlines guidelines for contributing to the book.
-6. **LICENSE**: This file specifies the license under which the book is published.
+6. **book.toml**: This file specifies how to build the static site with mdbook.
 
 ## License
 
