@@ -6,6 +6,16 @@
 
 This book guides you through the Lean Storytelling methodology, helping you craft compelling business stories that resonate with your audience.
 
+## Read the book
+
+Go to the [book reader](https://lean-storytelling.github.io/Lean-Storytelling-Book/docs/):
+- Read
+- Navigate
+- Search
+- Switch theme
+- Print it
+- Suggest edits
+
 ## Chapters
 
 1. **Lean Storytelling**: Introduction to the methodology and its principles.
