@@ -1,0 +1,11 @@
+[book]
+authors = ["Nicolas (Nÿco) Vérité"]
+language = "en"
+src = "src"
+title = "Lean Storytelling"
+description = "Craft and deliver compelling, efficient, convincing stories about your business, service, or product!"
+
+[output.html]
+git-repository-url = "https://github.com/Lean-Storytelling/Lean-Storytelling-Book"
+edit-url-template = "https://github.com/Lean-Storytelling/Lean-Storytelling-Book/edit/master/Lean-Storytelling-Book/src"
+
